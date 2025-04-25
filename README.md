@@ -74,5 +74,5 @@
   </a> 
 </p>
 
-<h1 style="text-align: center;">1945年8月15日</h1>
+<h1 style="text-align: center;">1988年1月24日</h1>
 <img src="./img/1.jpg" style="vertical-align:middle"/>
