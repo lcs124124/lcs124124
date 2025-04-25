@@ -48,7 +48,7 @@
     <tr border: none;>
   <tbody>
     <tr> 
-      <td><a href="https://github.com/pzxy-cs/pzxy-cloud-competition"><b>云计算竞赛</b></a></td>
+      <td><b>电子设计大赛</b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
@@ -69,10 +69,10 @@
 
 <h3>加入我</h3>
 <p>
-  <a href="https://github.com/ByteQuestor/bytequestor" target="_blank">
+  <a href="https://github.com/lcs124124/lcs124124" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
 </p>
 
 <h1 style="text-align: center;">1945年8月15日</h1>
-<img src="https://raw.gitmirror.com/ByteQuestor/picture/main/japan2.jpg" style="vertical-align:middle"/>
+<img src="./img/1.jpg" style="vertical-align:middle"/>
