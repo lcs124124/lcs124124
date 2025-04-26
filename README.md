@@ -1,6 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>欢迎来到我的主页!</h1>
-风吹到了连少女从未想过的地方~~~
+风吹到了少女从未想过的地方~~~
 <h3 >🧑‍💻我的技术栈 </h3>
 <p style="font-size: 13px; font-weight: bold; color: #e74c3c; background-color: #ecf0f1; border: 1px solid #e74c3c; padding: 5px; border-radius: 5px; display: inline-block;">
     他们都在假装不思进取，你别上当
